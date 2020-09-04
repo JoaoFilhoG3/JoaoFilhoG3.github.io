@@ -10,8 +10,8 @@ body {
 #general {
     padding: 50px;
     background-color: white;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 350px;
     position: absolute;
     margin: auto;
     top: 0;
@@ -38,23 +38,23 @@ body {
 }
 
 #text {
-    padding: 20px 0;
+    padding: 40px 0;
 }
 
 #text>h1 {
     color: #555;
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
 }
 
 #text>h2 {
     color: #999;
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
 }
 
 #social {
-    width: 293px;
+    width: 373px;
     margin: 0 auto;
 }
 
@@ -64,5 +64,5 @@ body {
 }
 
 .social-media {
-    width: 50px;
+    width: 70px;
 }
